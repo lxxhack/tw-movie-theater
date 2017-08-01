@@ -1,0 +1,12 @@
+.box80{
+    max-width: 80%;
+    margin: 3% auto;
+}
+.box15{
+    max-width: 15%;
+    margin: 1% auto;
+}
+img{
+    max-width: 80%;
+    margin: 5% auto;
+}
